@@ -1,0 +1,5 @@
+- [ ] Logo empresa
+- [ ] Introdução da empresa e serviços
+- [ ] Ícones com informação em baixo do tipos de serviço
+- [ ] Login
+- [ ] Agendamento
